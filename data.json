@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Xbox One X Edition Gears5",
+        "prix" : 499.99,
+        "img": "./img/xboxone.jpg"
+    },
+    {
+        "id": 2,
+        "title": "PS4 edition GOW",
+        "prix" : 499.99,
+        "img": "./img/ps4_.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Switch édition Zelda Breath of the Wild",
+        "prix" : 399.99,
+        "img": "./img/switch.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Manette Xbox One Elite",
+        "prix" : 170,
+        "img": "./img/manette-elite-boite-e106837.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Manette PS4 DualShock",
+        "prix" : 59.99,
+        "img": "./img/manette-ps4-dualshock.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Joy-cons Customisés Mario",
+        "prix" : 69.99,
+        "img": "./img/mario_joy-con.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Assassin's Creed Odyssey Ultimate Edition Xbox One",
+        "prix" : 34.99,
+        "img": "./img/assasinscreedodyssey.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Spider-Man PS4",
+        "prix" : 29.99,
+        "img": "./img/spider-man.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Pokémon Epée Switch",
+        "prix" : 34.99,
+        "img": "./img/pokemon.jpg"
+    }
+
+    
+]
